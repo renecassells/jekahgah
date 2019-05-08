@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zasheicha.snowcloud.ski/sitemap.xml
